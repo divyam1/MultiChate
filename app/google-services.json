@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257683158455",
+    "firebase_url": "https://multichate.firebaseio.com",
+    "project_id": "multichate",
+    "storage_bucket": "multichate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257683158455:android:b204ccaf65e4455c",
+        "android_client_info": {
+          "package_name": "com.example.multichate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257683158455-rqq10chbostb6cmsha4joae6bvnmujja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multichate",
+            "certificate_hash": "383975c9da2d46cfaf645490eba4d9093444b2a5"
+          }
+        },
+        {
+          "client_id": "257683158455-m3ji8snsskn7lhlj0st8ms8n7fpe0gkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8EJWU0yznQ6-VmvGsaWNovUXkF6UuZus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257683158455-m3ji8snsskn7lhlj0st8ms8n7fpe0gkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
